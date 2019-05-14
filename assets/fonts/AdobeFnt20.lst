@@ -1,0 +1,667 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Nunito-Black
+FamilyName:Nunito
+StyleName:Black
+FullName:Nunito Black
+MenuName:Nunito Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\imeli\Google Drive\Web Dev\Personales\Yogger\Font\Nunito-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:115896
+FileModTime:1344744000
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Nunito Black
+NameArray:0,Win,1,Nunito Black
+NameArray:0,Win,16,Nunito
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Nunito-BlackItalic
+FamilyName:Nunito
+StyleName:Black Italic
+FullName:Nunito Black Italic
+MenuName:Nunito Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\imeli\Google Drive\Web Dev\Personales\Yogger\Font\Nunito-BlackItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:117784
+FileModTime:1344744000
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Nunito Black Italic
+NameArray:0,Win,1,Nunito Black
+NameArray:0,Win,16,Nunito
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Nunito-Bold
+FamilyName:Nunito
+StyleName:Bold
+FullName:Nunito Bold
+MenuName:Nunito
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\imeli\Google Drive\Web Dev\Personales\Yogger\Font\Nunito-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:115852
+FileModTime:1344744000
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Nunito Bold
+NameArray:0,Win,1,Nunito
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Nunito-BoldItalic
+FamilyName:Nunito
+StyleName:Bold Italic
+FullName:Nunito Bold Italic
+MenuName:Nunito
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\imeli\Google Drive\Web Dev\Personales\Yogger\Font\Nunito-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:116948
+FileModTime:1344744000
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Nunito Bold Italic
+NameArray:0,Win,1,Nunito
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Nunito-ExtraBold
+FamilyName:Nunito
+StyleName:ExtraBold
+FullName:Nunito ExtraBold
+MenuName:Nunito ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\imeli\Google Drive\Web Dev\Personales\Yogger\Font\Nunito-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:115944
+FileModTime:1344744000
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Nunito ExtraBold
+NameArray:0,Win,1,Nunito ExtraBold
+NameArray:0,Win,16,Nunito
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Nunito-ExtraBoldItalic
+FamilyName:Nunito
+StyleName:ExtraBold Italic
+FullName:Nunito ExtraBold Italic
+MenuName:Nunito ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\imeli\Google Drive\Web Dev\Personales\Yogger\Font\Nunito-ExtraBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:116312
+FileModTime:1344744000
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Nunito ExtraBold Italic
+NameArray:0,Win,1,Nunito ExtraBold
+NameArray:0,Win,16,Nunito
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Nunito-ExtraLight
+FamilyName:Nunito
+StyleName:ExtraLight
+FullName:Nunito ExtraLight
+MenuName:Nunito ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\imeli\Google Drive\Web Dev\Personales\Yogger\Font\Nunito-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:113036
+FileModTime:1344744000
+WeightClass:275
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Nunito ExtraLight
+NameArray:0,Win,1,Nunito ExtraLight
+NameArray:0,Win,16,Nunito
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Nunito-ExtraLightItalic
+FamilyName:Nunito
+StyleName:ExtraLight Italic
+FullName:Nunito ExtraLight Italic
+MenuName:Nunito ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\imeli\Google Drive\Web Dev\Personales\Yogger\Font\Nunito-ExtraLightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:114712
+FileModTime:1344744000
+WeightClass:275
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Nunito ExtraLight Italic
+NameArray:0,Win,1,Nunito ExtraLight
+NameArray:0,Win,16,Nunito
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Nunito-Italic
+FamilyName:Nunito
+StyleName:Italic
+FullName:Nunito Italic
+MenuName:Nunito
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\imeli\Google Drive\Web Dev\Personales\Yogger\Font\Nunito-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:115780
+FileModTime:1344744000
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Nunito Italic
+NameArray:0,Win,1,Nunito
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Nunito-Light
+FamilyName:Nunito
+StyleName:Light
+FullName:Nunito Light
+MenuName:Nunito Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\imeli\Google Drive\Web Dev\Personales\Yogger\Font\Nunito-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:116360
+FileModTime:1344744000
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Nunito Light
+NameArray:0,Win,1,Nunito Light
+NameArray:0,Win,16,Nunito
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Nunito-LightItalic
+FamilyName:Nunito
+StyleName:Light Italic
+FullName:Nunito Light Italic
+MenuName:Nunito Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\imeli\Google Drive\Web Dev\Personales\Yogger\Font\Nunito-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:115444
+FileModTime:1344744000
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Nunito Light Italic
+NameArray:0,Win,1,Nunito Light
+NameArray:0,Win,16,Nunito
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Nunito-Regular
+FamilyName:Nunito
+StyleName:Regular
+FullName:Nunito Regular
+MenuName:Nunito
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\imeli\Google Drive\Web Dev\Personales\Yogger\Font\Nunito-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:113832
+FileModTime:1344744000
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Nunito Regular
+NameArray:0,Win,1,Nunito
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Nunito-SemiBold
+FamilyName:Nunito
+StyleName:SemiBold
+FullName:Nunito SemiBold
+MenuName:Nunito SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\imeli\Google Drive\Web Dev\Personales\Yogger\Font\Nunito-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:115968
+FileModTime:1344744000
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Nunito SemiBold
+NameArray:0,Win,1,Nunito SemiBold
+NameArray:0,Win,16,Nunito
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Nunito-SemiBoldItalic
+FamilyName:Nunito
+StyleName:SemiBold Italic
+FullName:Nunito SemiBold Italic
+MenuName:Nunito SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\imeli\Google Drive\Web Dev\Personales\Yogger\Font\Nunito-SemiBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:116936
+FileModTime:1344744000
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Nunito SemiBold Italic
+NameArray:0,Win,1,Nunito SemiBold
+NameArray:0,Win,16,Nunito
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NunitoSans-Black
+FamilyName:Nunito Sans
+StyleName:Black
+FullName:Nunito Sans Black
+MenuName:Nunito Sans Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\imeli\Google Drive\Web Dev\Personales\Yogger\Font\NunitoSans-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:98048
+FileModTime:1481126400
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Nunito Sans Black
+NameArray:0,Win,1,Nunito Sans Black
+NameArray:0,Win,16,Nunito Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NunitoSans-BlackItalic
+FamilyName:Nunito Sans
+StyleName:Black Italic
+FullName:Nunito Sans Black Italic
+MenuName:Nunito Sans Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\imeli\Google Drive\Web Dev\Personales\Yogger\Font\NunitoSans-BlackItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:99568
+FileModTime:1481126400
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Nunito Sans Black Italic
+NameArray:0,Win,1,Nunito Sans Black
+NameArray:0,Win,16,Nunito Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NunitoSans-Bold
+FamilyName:Nunito Sans
+StyleName:Bold
+FullName:Nunito Sans Bold
+MenuName:Nunito Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\imeli\Google Drive\Web Dev\Personales\Yogger\Font\NunitoSans-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:97276
+FileModTime:1481126400
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Nunito Sans Bold
+NameArray:0,Win,1,Nunito Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NunitoSans-BoldItalic
+FamilyName:Nunito Sans
+StyleName:Bold Italic
+FullName:Nunito Sans Bold Italic
+MenuName:Nunito Sans
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\imeli\Google Drive\Web Dev\Personales\Yogger\Font\NunitoSans-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:98940
+FileModTime:1481126400
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Nunito Sans Bold Italic
+NameArray:0,Win,1,Nunito Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NunitoSans-ExtraBold
+FamilyName:Nunito Sans
+StyleName:ExtraBold
+FullName:Nunito Sans ExtraBold
+MenuName:Nunito Sans ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\imeli\Google Drive\Web Dev\Personales\Yogger\Font\NunitoSans-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:96600
+FileModTime:1481126400
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Nunito Sans ExtraBold
+NameArray:0,Win,1,Nunito Sans ExtraBold
+NameArray:0,Win,16,Nunito Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NunitoSans-ExtraBoldItalic
+FamilyName:Nunito Sans
+StyleName:ExtraBold Italic
+FullName:Nunito Sans ExtraBold Italic
+MenuName:Nunito Sans ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\imeli\Google Drive\Web Dev\Personales\Yogger\Font\NunitoSans-ExtraBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:98236
+FileModTime:1481126400
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Nunito Sans ExtraBold Italic
+NameArray:0,Win,1,Nunito Sans ExtraBold
+NameArray:0,Win,16,Nunito Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NunitoSans-ExtraLight
+FamilyName:Nunito Sans
+StyleName:ExtraLight
+FullName:Nunito Sans ExtraLight
+MenuName:Nunito Sans ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\imeli\Google Drive\Web Dev\Personales\Yogger\Font\NunitoSans-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:94348
+FileModTime:1481126400
+WeightClass:275
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Nunito Sans ExtraLight
+NameArray:0,Win,1,Nunito Sans ExtraLight
+NameArray:0,Win,16,Nunito Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NunitoSans-ExtraLightItalic
+FamilyName:Nunito Sans
+StyleName:ExtraLight Italic
+FullName:Nunito Sans ExtraLight Italic
+MenuName:Nunito Sans ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\imeli\Google Drive\Web Dev\Personales\Yogger\Font\NunitoSans-ExtraLightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:95884
+FileModTime:1481126400
+WeightClass:275
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Nunito Sans ExtraLight Italic
+NameArray:0,Win,1,Nunito Sans ExtraLight
+NameArray:0,Win,16,Nunito Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NunitoSans-Italic
+FamilyName:Nunito Sans
+StyleName:Italic
+FullName:Nunito Sans Italic
+MenuName:Nunito Sans
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\imeli\Google Drive\Web Dev\Personales\Yogger\Font\NunitoSans-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:96996
+FileModTime:1481126400
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Nunito Sans Italic
+NameArray:0,Win,1,Nunito Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NunitoSans-Light
+FamilyName:Nunito Sans
+StyleName:Light
+FullName:Nunito Sans Light
+MenuName:Nunito Sans Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\imeli\Google Drive\Web Dev\Personales\Yogger\Font\NunitoSans-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:94092
+FileModTime:1481126400
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Nunito Sans Light
+NameArray:0,Win,1,Nunito Sans Light
+NameArray:0,Win,16,Nunito Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NunitoSans-LightItalic
+FamilyName:Nunito Sans
+StyleName:Light Italic
+FullName:Nunito Sans Light Italic
+MenuName:Nunito Sans Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\imeli\Google Drive\Web Dev\Personales\Yogger\Font\NunitoSans-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:95652
+FileModTime:1481126400
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Nunito Sans Light Italic
+NameArray:0,Win,1,Nunito Sans Light
+NameArray:0,Win,16,Nunito Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NunitoSans-Regular
+FamilyName:Nunito Sans
+StyleName:Regular
+FullName:Nunito Sans Regular
+MenuName:Nunito Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\imeli\Google Drive\Web Dev\Personales\Yogger\Font\NunitoSans-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:95760
+FileModTime:1481126400
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Nunito Sans Regular
+NameArray:0,Win,1,Nunito Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NunitoSans-SemiBold
+FamilyName:Nunito Sans
+StyleName:SemiBold
+FullName:Nunito Sans SemiBold
+MenuName:Nunito Sans SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\imeli\Google Drive\Web Dev\Personales\Yogger\Font\NunitoSans-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:95068
+FileModTime:1481126400
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Nunito Sans SemiBold
+NameArray:0,Win,1,Nunito Sans SemiBold
+NameArray:0,Win,16,Nunito Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NunitoSans-SemiBoldItalic
+FamilyName:Nunito Sans
+StyleName:SemiBold Italic
+FullName:Nunito Sans SemiBold Italic
+MenuName:Nunito Sans SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\imeli\Google Drive\Web Dev\Personales\Yogger\Font\NunitoSans-SemiBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:96636
+FileModTime:1481126400
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Nunito Sans SemiBold Italic
+NameArray:0,Win,1,Nunito Sans SemiBold
+NameArray:0,Win,16,Nunito Sans
+%EndFont
+

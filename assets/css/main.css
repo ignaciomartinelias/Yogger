@@ -1,0 +1,433 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Nunito";
+  color: #575756;
+}
+
+section {
+  height: 60vh;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 70%;
+  margin: 25px auto 25px;
+}
+
+.titulo {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 25px;
+  padding-top: 25px;
+}
+
+header {
+  height: 70vh;
+  background-image: url(../../images/banner-mobile.jpg);
+  background-size: cover;
+  background-position: bottom center;
+  background-repeat: no-repeat;
+}
+
+.navbar.navbar-expand-lg {
+  position: absolute;
+  width: 100%;
+}
+
+.logo-navbar {
+  width: 125px;
+}
+
+.menu-navbar {
+  width: 30px;
+}
+
+.nav-link {
+  color: #575756;
+  font-family: "Nunito", sans-serif;
+  font-weight: 600;
+}
+
+.texto-banner {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.texto-banner h1 {
+  text-align: center;
+  font-size: 18px;
+}
+
+#quienes-somos {
+  position: relative;
+  height: fit-content;
+}
+
+.texto {
+  font-size: 12px;
+  line-height: 20px;
+  text-align: center;
+  font-weight: 600;
+}
+
+#quienes-somos .texto.web-only {
+  display: none;
+}
+
+.plus {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.plus img {
+  width: 30px;
+  transition: 1s;
+  cursor: pointer;
+}
+
+.hoja-izquierda {
+  position: absolute;
+  top: 175px;
+  left: 0;
+}
+
+.hoja-izquierda img {
+  width: 75px;
+  z-index: 5;
+}
+
+#propiedades {
+  background-image: url(../../images/fondo-rosa-mobile.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 700px;
+}
+
+#propiedades .texto {
+  padding-top: 60px;
+  color: white;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.propiedad {
+  margin: 25px 0;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  text-align: center;
+  color: white;
+}
+
+.propiedad img {
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+}
+
+.desc-propiedad {
+  font-size: 13px;
+}
+
+.carrusel {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  height: 300px;
+  position: relative;
+  list-style: none;
+}
+
+.item-carrusel img {
+  display: none;
+  top: 0;
+}
+
+.item-carrusel .principal {
+  display: block;
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+
+.item-carrusel .izquierda {
+  display: block;
+  width: 60%;
+  position: absolute;
+  z-index: 1;
+  left: -10%;
+  top: 20%;
+}
+
+.item-carrusel .derecha {
+  display: block;
+  width: 60%;
+  position: absolute;
+  z-index: 1;
+  right: -10%;
+  top: 20%;
+}
+
+#productos {
+  min-height: 515px;
+}
+
+#productos .titulo {
+  margin-bottom: 0;
+}
+
+.categoria-productos {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  width: 40%;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  padding: 0;
+  margin-bottom: 25px;
+}
+
+.categoria-productos li {
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.variedades {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  width: 90%;
+  justify-content: space-around;
+  align-items: center;
+  margin: auto;
+  margin-bottom: 5px;
+  padding: 0;
+  flex-wrap: nowrap;
+}
+
+.variedades li {
+  font-size: 12px;
+}
+
+.variedades.dos {
+  width: 70%;
+}
+
+#productos p {
+  text-align: center;
+  font-size: 11px;
+  margin-top: 20px;
+}
+
+.beneficios-wrapper {
+  display: flex;
+  flex-direction: column;
+  background-color: #8c9fc3;
+}
+
+.image-container {
+  max-height: 250px;
+  overflow: hidden;
+}
+
+.image-container img {
+  width: 100%;
+}
+
+#beneficios {
+  height: fit-content;
+  margin-bottom: -75px;
+}
+
+.beneficios {
+  margin: 25px 0 100px;
+}
+
+.beneficios .titulo {
+  color: white;
+  font-size: 16px;
+}
+
+.desc-beneficios {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  line-height: 15px;
+  list-style: none;
+  text-align: center;
+  padding: 0;
+  margin-top: 25px;
+}
+
+.desc-beneficios li {
+  font-size: 13px;
+  margin: 5px auto;
+}
+
+#contacto {
+  background-image: url(../../images/fondo-gris-mobile.png);
+  background-size: cover;
+  position: relative;
+  overflow: visible;
+  background-repeat: no-repeat;
+  color: white;
+  min-height: 600px;
+}
+
+#contacto .titulo {
+  padding-top: 50px;
+  margin-bottom: 5px;
+}
+
+#contacto p {
+  color: white;
+  text-align: center;
+}
+
+.contacto-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.item-contacto {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+form {
+  width: 80%;
+  margin: 20px auto;
+}
+
+.datos-formulario {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+}
+
+.datos-formulario input {
+  width: 48%;
+  background-color: transparent;
+  border: none;
+  border-bottom: solid white 1px;
+  color: white;
+  font-family: "Nunito";
+  font-size: 12px;
+  padding: 5px;
+}
+
+.datos-formulario input::placeholder {
+  color: white;
+  font-size: 12px;
+  padding-left: 5px;
+  font-family: "Nunito";
+  font-weight: 600;
+}
+
+.mensaje-formulario textarea {
+  margin-top: 20px;
+  width: 100%;
+  height: 120px;
+  background-color: transparent;
+  border: solid white 1px;
+  color: white;
+  font-family: "Nunito";
+  font-size: 12px;
+  padding: 5px;
+}
+
+.mensaje-formulario textarea::placeholder {
+  color: white;
+  font-size: 12px;
+  padding-left: 5px;
+  font-family: "Nunito";
+  font-weight: 600;
+}
+
+input[type="submit"] {
+  margin-top: 5px;
+  width: 100%;
+  background-color: transparent;
+  border: solid white 1px;
+  color: white;
+  font-family: "Nunito";
+  text-transform: uppercase;
+  font-size: 11px;
+  padding: 10px 0;
+  font-weight: 600;
+}
+
+input:focus,
+textarea:focus {
+    outline: none;
+}
+
+.item-contacto img {
+  margin: 15px 0 25px;
+  width: 40%;
+}
+
+.datos-contacto {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+}
+
+.datos-contacto li {
+  line-height: 20px;
+}
+
+.datos-contacto a {
+  color: white;
+  font-size: 13px;
+}
+
+.redes {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+  font-size: 13px;
+}
+
+.redes li {
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.redes a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.redes a img {
+  width: 80%;
+}
